@@ -514,6 +514,9 @@ const index = (() => {
 		document.getElementById('spanZoneId').innerHTML = weatherParameters.zoneId;
 	};
 
+	//const music = new Audio('music/test.mp3');
+	//music.play();
+	//music.loop = true;
 	// track state of nosleep locally to avoid a null case error
 	// when nosleep.disable is called without first calling .enable
 	let wakeLock = false;
