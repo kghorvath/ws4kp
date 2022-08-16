@@ -14,7 +14,8 @@ I missed the music from the original so I literally just embedded a Weather Chan
 
 ## How to Run
 
-Make sure you have Node.js installed. Clone this repo and enter the directory. Run `npm 
+Make sure you have Node.js installed. Clone this repo and enter the directory. Run `npm install` and `node index.js` to start a local server. Then navigate to `http://localhost:8080` in your browser.
+
 ## Disclaimer
 
 Don't rely on this for any serious weather reporting please. This is just for fun.
