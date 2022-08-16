@@ -4,6 +4,8 @@
 
 This is a fork of https://github.com/netbymatt/ws4kp which itself is a fork of https://github.com/vbguyny/ws4kp
 
+See a live demo at https://weather.kghorvath.com
+
 ## How to Run
 
 Make sure you have Node.js installed. Clone this repo, run `npm install`, and then `node index.js` and navigate to `http://localhost:8080` in your browser.
